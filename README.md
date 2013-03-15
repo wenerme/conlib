@@ -1,4 +1,4 @@
-贪吃蛇 v1.2 [![Build Status](https://travis-ci.org/WenerLove/conlib.png)](https://travis-ci.org/WenerLove/conlib)
+贪吃蛇 v1.2 [![Build Status](https://travis-ci.org/WenerLove/conlib.png?branch=master)](https://travis-ci.org/WenerLove/conlib)
 ===========
 
 ## 作者:
