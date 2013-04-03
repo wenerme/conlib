@@ -5,3 +5,5 @@ conlib:
 	gcc test.c conlib.dll -o test.exe $(CFLAG)
 	gcc beep_test.c conlib.dll -o beep_test
 
+clean:
+	-rm *.dll *.exe

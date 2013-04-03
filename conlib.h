@@ -1,5 +1,5 @@
 /*
- * Conlib v1.2
+ * Conlib v1.3
  * Author: Wener
  * E-mail: wenermail@gmail.com
  * Site: http://blog.wener.me
@@ -78,6 +78,7 @@ typedef struct _ConMouse
 typedef struct _ConKey
 {
 	int key;
+	char ascii;
 	bool state;
 	ConControlKeyState *ctrl_key_state;
 } ConKey;

@@ -1,5 +1,5 @@
 /*
- * Conlib v1.2
+ * Conlib v1.3
  * Author: Wener
  * E-mail: wenermail@gmail.com
  * Site: http://blog.wener.me
@@ -143,6 +143,8 @@ const ConKey* getkey()
 	
 	cKey.key = ke.wVirtualKeyCode;
 	cKey.state = ke.bKeyDown;
+	cKey.ascii = ke.uChar.AsciiChar;
+	
 	cKey.ctrl_key_state = &cCtrlKeyState;
 	update_ctrlkey(ke.dwControlKeyState);
 
