@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 贪吃蛇 v1.3
-=======
-贪吃蛇 v1.2 [![Build Status](https://travis-ci.org/WenerLove/conlib.png?branch=master)](https://travis-ci.org/WenerLove/conlib)
->>>>>>> 7a8230cd213987104ef404cd1f70910add2efc82
 ===========
 
 ## 作者:

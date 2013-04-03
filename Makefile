@@ -7,3 +7,6 @@ conlib:
 
 clean:
 	-rm *.dll *.exe
+	
+push:
+	git push -u origin master
