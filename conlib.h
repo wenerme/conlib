@@ -23,7 +23,7 @@
 #define	ConMOUSE_4TH_BUTTON		10
 /* 键盘按键 */
 /*
- * 常见:
+ * 参见:
  * http://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx
  */
 #define ConKEY_BACKSPACE		0x8
